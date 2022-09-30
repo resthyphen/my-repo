@@ -1,0 +1,12 @@
+pip(package installer for python): ~\Python\Python39\Scripts
+
+ERROR: Could not find a version that satisfies the requirement MySQLdb (from versions: none)
+ERROR: No matching distribution found for MySQLdb:
+    >pip install mysql
+
+
+> Collecting Parameters         P114
+  Reversing the Process         P116
+
+
+>  Configuration File (config.py)       P482
